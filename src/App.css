@@ -1,5 +1,29 @@
+@font-face {
+  font-family: "cursive";
+  src: url(./assets/AnotherDay.ttf);
+}
+
 .App {
+  background: url("./assets/flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.happy {
+  font-family: cursive;
+  color: #EABCEA;
+  font-size: 3em;
+  text-shadow: black 0px 0px 3.5px, black 0px 0px 3.5px, black 0px 0px 3.5px,
+  black 0px 0px 3.5px, black 0px 0px 3.5px, black 0px 0px 3.5px;
+  margin: .75em;
 }
 
 .App-logo {
@@ -11,17 +35,6 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
