@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mothersday/static/css/main.92ffe5a2.chunk.css",
+    "main.js": "/mothersday/static/js/main.1522af27.chunk.js",
+    "main.js.map": "/mothersday/static/js/main.1522af27.chunk.js.map",
+    "runtime-main.js": "/mothersday/static/js/runtime-main.9a40de99.js",
+    "runtime-main.js.map": "/mothersday/static/js/runtime-main.9a40de99.js.map",
+    "static/css/2.800be05e.chunk.css": "/mothersday/static/css/2.800be05e.chunk.css",
+    "static/js/2.7550b471.chunk.js": "/mothersday/static/js/2.7550b471.chunk.js",
+    "static/js/2.7550b471.chunk.js.map": "/mothersday/static/js/2.7550b471.chunk.js.map",
+    "static/js/3.7784672e.chunk.js": "/mothersday/static/js/3.7784672e.chunk.js",
+    "static/js/3.7784672e.chunk.js.map": "/mothersday/static/js/3.7784672e.chunk.js.map",
+    "index.html": "/mothersday/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/mothersday/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.92ffe5a2.chunk.css.map": "/mothersday/static/css/main.92ffe5a2.chunk.css.map",
+    "static/js/2.7550b471.chunk.js.LICENSE.txt": "/mothersday/static/js/2.7550b471.chunk.js.LICENSE.txt",
+    "static/media/VideoButton.css": "/mothersday/static/media/AnotherDay.680bb806.ttf",
+    "static/media/App.css": "/mothersday/static/media/flowers.3409b71d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a40de99.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.7550b471.chunk.js",
+    "static/css/main.92ffe5a2.chunk.css",
+    "static/js/main.1522af27.chunk.js"
+  ]
+}
